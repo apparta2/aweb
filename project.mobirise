@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AGENCE WEB SYNERGIZ",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4338,7 +4338,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/0ff12793-69f8-42d0-ad26-791d5ae363f5-600x300.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>NOUVELLES PLATEFORMES<br>NOUVEAUX METIERS</b><br>\n<br>LES PLATEFORMES ACTUELLES TELLE QUE WORDPRESS VOUS PERMTTENT D'OSER LES PLUS GRANDES FANTAISIES AVEC DES RESULATS EPOUSTOUFLANTS.&nbsp;<br>DU SIMPLE SITE A LA BOUTIQUE EN LIGNE EN PASSANT PAR LE BLOG PERSONNEL, NOUS CREERONS AVEC VOUS<b> VOTRE</b> SITE. <b>CELUI QUI VOUS RESSEMBLE</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/wp-1600x1024.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>NOUVELLES PLATEFORMES<br>NOUVEAUX METIERS</b><br>\n<br>LES PLATEFORMES ACTUELLES TELLE QUE WORDPRESS VOUS PERMTTENT D'OSER LES PLUS GRANDES FANTAISIES AVEC DES RESULATS EPOUSTOUFLANTS.&nbsp;<br>DU SIMPLE SITE A LA BOUTIQUE EN LIGNE EN PASSANT PAR LE BLOG PERSONNEL, NOUS CREERONS AVEC VOUS<b> VOTRE</b> SITE. <b>CELUI QUI VOUS RESSEMBLE</b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qCyrD7FoD5",
           "_anchor": "content6-17",
           "_protectedParams": [],
@@ -4619,7 +4619,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/its-time-to-treat-yourself.-828x315.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -4637,7 +4637,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/tlv-828x315.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
