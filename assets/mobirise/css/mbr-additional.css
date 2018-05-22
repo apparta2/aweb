@@ -4861,6 +4861,22 @@ body {
 .cid-qCyrD372L4 H1 {
   color: #ffffff;
 }
+.cid-qSLezktqfZ {
+  background-image: url("../../../assets/images/5-life-skills-every-child-should-know-2500-2000x640.png");
+}
+.cid-qSLezktqfZ .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qSLezktqfZ .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qSLezktqfZ .content-container {
+    padding-right: 5rem;
+  }
+}
 .cid-qCyrD53em2 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -6467,7 +6483,7 @@ body {
 .cid-qNLG8en0BM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/hero-home-3-1920x11003.jpg");
+  background-image: url("../../../assets/images/hero-home-3-1920x11005.jpg");
 }
 .cid-qNLG8en0BM .title {
   margin-bottom: 2rem;
